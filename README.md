@@ -1,7 +1,7 @@
 # Hi 🚀, I'm Kyle Netterville
 **Cloud Computing, Networking & Full-Stack Enthusiast**
 
-A passionate Computer Science student from Louisiana State University, specializing in Cloud Computing and Networking. I love building high-performance web applications, optimizing systems, and diving into data-driven engineering projects.
+A passionate Computer Science student from Louisiana State University, specializing in Cloud Computing and Networking. I love building high-performance web applications, optimizing systems, and building games for fun!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyle-netterville)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nettervillekyle@gmail.com)
@@ -75,6 +75,6 @@ A passionate Computer Science student from Louisiana State University, specializ
 ---
 
 <p align="center">
-  📫 Feel free to reach out if you want to talk tech, cars, or system programming!
+  📫 Feel free to reach out if you want to talk tech, AI, or games!
 </p>
 
