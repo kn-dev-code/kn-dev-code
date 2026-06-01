@@ -64,14 +64,6 @@ A passionate Computer Science student from Louisiana State University, specializ
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
 </p>
-
----
-
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kn-dev-code&show_icons=true&theme=tokyonight&count_private=true" alt="Kyle's GitHub Stats" />
-</p>
-
 ---
 
 <p align="center">
