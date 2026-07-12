@@ -2,7 +2,6 @@
   <img src="https://www.enworld.org/media/blackhole-space-gif.99814/full" width="740" height="358" alt="blackhole-space.gif" class="js-mediaImage" loading="lazy">
 </p>
 
-# 👾 Kyle Netterville
 **Cloud Computing, Networking & Full-Stack Systems Engineer**
 
 <p align="left">
@@ -37,10 +36,10 @@
 
 | Tier | Ecosystem | Technologies |
 | :--- | :--- | :--- |
-| 🦀 **Low-Level & Systems** | High-performance execution, memory safety & compilation | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,c,wasm&theme=dark" alt="Systems" /></a> |
-| ☁️ **Cloud & Infrastructure** | Containerization, cloud architecture & distributed scaling | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" alt="Cloud" /></a> |
-| 📊 **Data Engineering & AI** | Telemetry ingestion, predictive pipelines & stateful AI | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,postgres,mongodb,dynamodb&theme=dark" alt="Data" /></a> |
-| 🌐 **Full-Stack Application** | Modern reactive interfaces, type-safety & backend logic | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,fastapi,nodejs&theme=dark" alt="Fullstack" /></a> |
+| 🦀 **Low-Level & Systems** | High-performance execution, memory safety & compilation | &nbsp; <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,c,wasm&theme=dark" alt="Systems" /></a> |
+| ☁️ **Cloud & Infrastructure** | Containerization, cloud architecture & distributed scaling | &nbsp; <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" alt="Cloud" /></a> |
+| 📊 **Data Engineering & AI** | Telemetry ingestion, predictive pipelines & stateful AI | &nbsp; <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,postgres,mongodb,dynamodb&theme=dark" alt="Data" /></a> |
+| 🌐 **Full-Stack Application** | Modern reactive interfaces, type-safety & backend logic | &nbsp; <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,fastapi,nodejs&theme=dark" alt="Fullstack" /></a> |
 
 ---
 
@@ -50,4 +49,3 @@
 ⚡ BlinkFlow    ::  React | Rust | WebAssembly | Client-Side Binary Processing (Zero-Server)
 ⚡ PyroSense    ::  FastAPI | NASA FIRMS API | Spatial Clustering (DBSCAN) | Automated ETL
 ⚡ ScopeLancer  ::  Next.js | FastAPI | Stateful AI (LangGraph) | Dynamic Mermaid.js Generation
----
