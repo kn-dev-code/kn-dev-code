@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.enworld.org/media/blackhole-space-gif.99814/full" width="740" height="358" alt="blackhole-space.gif" class="js-mediaImage" loading="lazy">
-</p>
-
 Cloud Infrastructure | Full-Stack | Machine Learning 
 
 <p align="left">
