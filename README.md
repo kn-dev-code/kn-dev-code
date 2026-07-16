@@ -44,4 +44,4 @@ Cloud Infrastructure | Full-Stack | Machine Learning
 ```💡 Highlighted Systems Architecture
 ⚡ BlinkFlow    ::  React | Rust | WebAssembly | Client-Side Binary Processing (Zero-Server)
 ⚡ PyroSense    ::  FastAPI | NASA FIRMS API | Spatial Clustering (DBSCAN) | Automated ETL
-⚡ ScopeLancer  ::  Next.js | FastAPI | Stateful AI (LangGraph) | Dynamic Mermaid.js Generation
+⚡ Scopelancer  ::  Next.js | FastAPI | Stateful AI (LangGraph) | Dynamic Mermaid.js Generation
