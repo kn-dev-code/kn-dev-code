@@ -12,7 +12,7 @@ Cloud Infrastructure | Full-Stack | Machine Learning
 ---
 
 ### 🛰️ Overview
-> A passionate Computer Science student at **Louisiana State University** specializing in Cloud Computing and Infrastructure. I bridge the gap between low-level performance and scalable full-stack applications, with a heavy interest in real-time systems, telemetry, and distributed architectures.
+> I'm a Computer Science student at **Louisiana State University** specializing in Cloud Computing and Infrastructure. I like to build and scale software and machine learning systems with cloud infrastructure. I also have a heavy interest in real-time systems, telemetry, and distributed architectures.
 
 ---
 
@@ -22,9 +22,9 @@ Cloud Infrastructure | Full-Stack | Machine Learning
 | :--- | :--- | :--- |
 | 🏎️ **Data Acquisition Engineer** | **Tiger Racing Formula SAE** | Telemetry pipelines, real-time data ingestion & performance analytics |
 | 🎓 **B.S. Computer Science** | **Louisiana State University** | Expected May 2027 • Advanced DSA, Systems Programming, OOP |
-| 💼 **Fullstack Developer Intern** | **UpCancer** (Past) | High-performance UI components, backend logic, API integration |
+| 💼 **Software Developer Intern** | **UpCancer** (Past) | High-performance UI components, backend logic, API integration |
 
-> **Let's talk about:** Rust, WebAssembly, Python, System Architecture, distributed systems, or high-performance telemetry data pipelines!
+> **Let's talk about:** Software, systems, AI, or even life!
 
 ---
 
