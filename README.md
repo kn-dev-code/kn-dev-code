@@ -12,7 +12,7 @@ Cloud Infrastructure | Full-Stack | Machine Learning
 ---
 
 ### 🛰️ Overview
-> I'm a Computer Science student at **Louisiana State University** specializing in Cloud Computing and Infrastructure. I like to build and scale software and machine learning systems with cloud infrastructure. I also have a heavy interest in real-time systems, telemetry, and distributed architectures.
+> I'm a Computer Science student at **Louisiana State University** specializing in Cloud Computing and Infrastructure. I like to build & scale systems related to software and machine learning. I also have a heavy interest in real-time systems, telemetry, and distributed architectures.
 
 ---
 
