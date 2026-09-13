@@ -4,7 +4,7 @@
 
 # 📮 About Me
 
-My name is Kyle and I am a Computer Science student at Louisiana State University specializing in Cloud Computing and Infrastructure!
+I am a Computer Science student at Louisiana State University specializing in Cloud Computing and Infrastructure!
 
 ```python
 class Kyle:
