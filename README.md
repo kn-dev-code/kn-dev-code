@@ -1,4 +1,4 @@
-Cloud Infrastructure | Full-Stack | Machine Learning 
+Cloud Infrastructure | Full-Stack
 
 <p align="left">
   <a href="https://linkedin.com/in/kyle-netterville" target="_blank">
@@ -22,7 +22,7 @@ Cloud Infrastructure | Full-Stack | Machine Learning
 | :--- | :--- | :--- |
 | 🏎️ **Data Acquisition Engineer** | **Tiger Racing Formula SAE** | Telemetry pipelines, real-time data ingestion & performance analytics |
 | 🎓 **B.S. Computer Science** | **Louisiana State University** | Expected May 2027 • Advanced DSA, Systems Programming, OOP |
-| 💼 **Software Developer Intern** | **UpCancer** (Past) | High-performance UI components, backend logic, API integration |
+| 💼 **Software Developer Intern** | **UpCancer** | High-performance UI components, backend logic, API integration |
 
 > **Let's talk about:** Software, systems, AI, or even life!
 
