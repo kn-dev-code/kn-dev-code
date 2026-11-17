@@ -26,4 +26,4 @@ class Kyle:
 [![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+[![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://skillicons.dev)
