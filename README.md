@@ -10,7 +10,7 @@ I am a Computer Science student at Louisiana State University specializing in Cl
 class Kyle:
     def __init__(self):
         self.school = "Louisiana State University"
-        self.focus = ["Cloud Infrastructure", "Full-Stack"]
+        self.focus = ["Cloud Infrastructure", "Fullstack", "AI-Engineering"]
         self.hobbies = ["Coding", "Weightlifting", "Sleeping"]
         self.email = "nettervillekyle@gmail.com"
 ```
