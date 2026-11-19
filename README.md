@@ -11,7 +11,7 @@ class Kyle:
     def __init__(self):
         self.school = "Louisiana State University"
         self.focus = ["Cloud Infrastructure", "Fullstack", "AI-Engineering"]
-        self.hobbies = ["Coding", "Weightlifting", "Sleeping"]
+        self.hobbies = ["Code", "Weightlift", "Sleep"]
         self.email = "nettervillekyle@gmail.com"
 ```
 ---
