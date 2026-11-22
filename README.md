@@ -19,7 +19,7 @@ class Kyle:
 > **Let's talk about:** Software, systems, AI, or even life!
 ---
 # ⌨️ Current work?
-- * ⚡ **privalocal** — Go | PostgreSQL (`pgx`/`goose`) | WebSockets & Reverse Tunnels | Next.js | Local App Profiling & AI Optimization Reports
+- ⚡ **privalocal** — Go | PostgreSQL (`pgx`/`goose`) | WebSockets & Reverse Tunnels | Next.js | Local App Profiling & AI Optimization Reports
 #  Tech Stack
 
 ### ☁️ Languages
